@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sib_energy_craft:item/bronze_axe"
+  }
+}
