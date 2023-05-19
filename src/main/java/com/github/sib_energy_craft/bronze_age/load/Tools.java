@@ -11,7 +11,7 @@ import static com.github.sib_energy_craft.sec_utils.utils.ItemUtils.register;
  * @since 0.0.1
  * @author sibmaks
  */
-public final class Items implements DefaultModInitializer {
+public final class Tools implements DefaultModInitializer {
 
     public static final AxeItem BRONZE_AXE;
     public static final HoeItem BRONZE_HOE;

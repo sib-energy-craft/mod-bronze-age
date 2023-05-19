@@ -3,5 +3,10 @@
   "item.sib_energy_craft.bronze_hoe": "Бронзовая мотыга",
   "item.sib_energy_craft.bronze_pickaxe": "Бронзовая кирка",
   "item.sib_energy_craft.bronze_shovel": "Бронзовая лапата",
-  "item.sib_energy_craft.bronze_sword": "Бронзовый мечь"
+  "item.sib_energy_craft.bronze_sword": "Бронзовый мечь",
+
+  "item.sib_energy_craft.bronze_helmet": "Бронзовый шлем",
+  "item.sib_energy_craft.bronze_chestplate": "Бронзовый нагрудник",
+  "item.sib_energy_craft.bronze_leggings": "Бронзовый поножи",
+  "item.sib_energy_craft.bronze_boots": "Бронзовый ботинки"
 }

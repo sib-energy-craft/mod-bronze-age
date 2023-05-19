@@ -3,5 +3,10 @@
   "item.sib_energy_craft.bronze_hoe": "Bronze Hoe",
   "item.sib_energy_craft.bronze_pickaxe": "Bronze Pickaxe",
   "item.sib_energy_craft.bronze_shovel": "Bronze Shovel",
-  "item.sib_energy_craft.bronze_sword": "Bronze Sword"
+  "item.sib_energy_craft.bronze_sword": "Bronze Sword",
+
+  "item.sib_energy_craft.bronze_helmet": "Bronze Helmet",
+  "item.sib_energy_craft.bronze_chestplate": "Bronze Chestplate",
+  "item.sib_energy_craft.bronze_leggings": "Bronze Leggings",
+  "item.sib_energy_craft.bronze_boots": "Bronze Boots"
 }
